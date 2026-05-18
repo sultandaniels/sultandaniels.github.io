@@ -1,0 +1,17 @@
+# LaTeX build artifacts
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+
+# LaTeX sources kept local-only (contain personal phone number)
+sultan_daniels_*_ref.tex
+sultan_daniels_*_ref.pdf
+
+# Unused thumbnails / source PDFs from the redesign
+main_intervention.pdf
+main_intervention.png
+needle_normal.pdf
+needle_normal.png
